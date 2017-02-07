@@ -1,2 +1,2 @@
-# csv2strings
-把csv文件中的翻译转换成iOS本地化用的strings文件
+# 功能
+根据`en.strings`文件里已有的项在`a.csv`文件里面查找英文相同的行，然后取出其中的俄文写入新的`ru.strings`文件。
